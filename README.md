@@ -6,7 +6,7 @@
 
 ## Используемые технологии
 * HTML
-* CSS3
+* CSS
 
 ## Репозиторий
 https://github.com/harvest-m88n/ono-tebe-nado-ad
